@@ -1,0 +1,11 @@
+{
+  "name": "Node Multi OS CI",
+  "description": "Our CI pipeline, running on multiple operating systems.",
+  "iconName": "ci-icon",
+  "categories": [
+    "JavaScript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
