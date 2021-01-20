@@ -24,7 +24,7 @@ Link the acceptance criteria here if they are defined.
 __Definition of Done__
 
 * [ ] corresponds to [the design principles](https://github.com/bpmn-io/design-principles)
-* [ ] corresponds to [the code standards](https://github.com/bpmn-io/.github/blob/master/.github/CONTRIBUTING.md#creating-a-pull-request)
+* [ ] corresponds to [the code standards](https://github.com/bpmn-io/.github/blob/master/.github/CONTRIBUTING.md#create-a-pull-request)
 * [ ] passes Continuous Integration checks
 * [ ] available as feature branch on GitHub
   * [ ] contains the cleaned up commit history
