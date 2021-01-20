@@ -44,7 +44,7 @@ Create a [pull request](#create-a-pull-request) if you would like to have an in-
 
 ### Code Style
 
-Most of our code styles are automatically enforced via [lint rules](https://github.com/bpmn-io/eslint-plugin-bpmn-io) and automatically checked as you submit your PR.
+Most of our code styles are automatically enforced via [lint rules](https://github.com/bpmn-io/eslint-plugin-bpmn-io) and checked as you submit your PR.
 
 Would you like to double check things locally? In this case our `lint` task is your friend:
 
