@@ -1,0 +1,11 @@
+{
+  "name": "Node CI - Multi OS",
+  "description": "Our default CI for NodeJS projects, running on multiple operating systems.",
+  "iconName": "ci-icon",
+  "categories": [
+    "JavaScript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}

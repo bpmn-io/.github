@@ -1,6 +1,6 @@
 {
-  "name": "Node Multi OS CI",
-  "description": "Our CI pipeline, running on multiple operating systems.",
+  "name": "Node CI - Basic",
+  "description": "Our default CI workflow for NodeJS projects.",
   "iconName": "ci-icon",
   "categories": [
     "JavaScript"
