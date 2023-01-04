@@ -7,6 +7,5 @@ Visit our [website](https://bpmn.io/) to learn more about our project.
 
 ### Resources
 
-* [Our projects](https://github.com/orgs/bpmn-io/repositories)
 * [Community forum](https://forum.bpmn.io/)
 * [What we work on](https://tasks.bpmn.io/)
