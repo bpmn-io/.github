@@ -15,7 +15,7 @@ To ensure you provided everything we need to look at your PR:
 * [ ] **Brief textual description** of the changes present
 * [ ] **Visual demo** attached
 * [ ] **Steps to try out** present, i.e. [using the `@bpmn-io/sr` tool](https://github.com/bpmn-io/sr)
-* [ ] Related issue linked via `Closes {LINK_TO_ISSUE}` or `Related to  {LINK_TO_ISSUE}`
+* [ ] Related issue linked via `Closes {LINK_TO_ISSUE}` or `Related to {LINK_TO_ISSUE}`
 
 <!--
 
