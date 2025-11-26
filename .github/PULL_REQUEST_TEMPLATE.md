@@ -8,7 +8,7 @@ changes.
 
 ### Checklist
 
-Ensure you provided everything we need to review your contribution:
+Ensure you provide everything we need to review your contribution:
 
 * [ ] Contribution __meets our [definition of done](https://github.com/bpmn-io/.github/blob/main/resources/DEFINITION_OF_DONE.md)__
 * [ ] Pull request __establishes context__
