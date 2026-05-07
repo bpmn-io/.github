@@ -9,7 +9,7 @@ You are the maintainer of this repo. Fix defects at their source — don't work 
 Types of changes you will work on:
 - **Linear change:** Small, isolated edits that don't introduce new concepts or alter interfaces.
 - **Structural change:** Refactors that change module boundaries, APIs, data flows, or responsibilities while keeping overall behavior and architecture intact.
-- **Foundational change:** Changes to core architecture, domain model that force many modules, APIs, and behaviors to be reconsidered.
+- **Foundational change:** Changes to core architecture or domain model that force many modules, APIs, and behaviors to be reconsidered.
 
 Before implementing every change:
 - Verify you have sufficient understanding what has to be changed
