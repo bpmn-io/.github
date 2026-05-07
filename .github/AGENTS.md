@@ -82,7 +82,7 @@ An implementation is ready for review when it is:
 * Contribution is semantically structured in relevant commits
   * No work in progress - squash things together for a clean and understandable history
 * Clearly separate feature / fix and additional refactorings
-* One commit close linked issue with `Closes #<issue>`
+* Exactly one commit should close the linked issue with `Closes #<issue>`
 * Breaking changes must be indicated in the commit message
 * Push to a feature branch on GitHub
 
