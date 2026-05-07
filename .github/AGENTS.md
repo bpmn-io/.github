@@ -62,7 +62,7 @@ npm run all
   someBehaviorToTest();
 
   // then
-  // optional description what is asserted here
+  // optional description of what is asserted here
   expect(otherThing).to.exist;
   expect(otherThing).to.equal(expectedThing);
   ```
