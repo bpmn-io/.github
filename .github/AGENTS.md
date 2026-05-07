@@ -52,7 +52,7 @@ npm run all
 
 * Avoid extensive mocking and stubbing; prefer simple environment setup and validate behaviors at the appropriate level, including good unit tests where useful and reasonably "end-to-end" tests where appropriate
 * Look towards existing test patterns, re-use them
-* When in doubt, then create tests first ("test driven") before implementing
+* When in doubt, create tests first ("test-driven") before implementing
 * Follow good testing practices: Every test is clearly structured as `given (-> assume) -> when -> then`
   ```javascript
   // given
