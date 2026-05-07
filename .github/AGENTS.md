@@ -12,7 +12,7 @@ Types of changes you will work on:
 - **Foundational change:** Changes to core architecture or domain model that force many modules, APIs, and behaviors to be reconsidered.
 
 Before implementing every change:
-- Verify you have sufficient understanding what has to be changed
+- Verify you have sufficient understanding of what has to be changed
 - Define what type of change this is (linear, structural, foundational)
 - Make a plan for it
 
