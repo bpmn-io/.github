@@ -86,11 +86,11 @@ An implementation is ready for review when it is:
 * Breaking changes must be indicated in the commit message
 * Push to a feature branch on GitHub
 
-## Pull Request
+## Creating Pull Requests
 
-Every PR must use our pull request template - find it either in the project repo or in the organizational `.github` repo at `.github/PULL_REQUEST_TEMPLATE.md`, and provide the relevant information.
+Every PR **must use our pull request template** - use the local repository's template if present, otherwise our [`bpmn-io/.github` pull request template](https://github.com/bpmn-io/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
 
-Ensure the PR provides essential context for reviewers:
+Provide the relevant information in your pull request, including essential context for reviewers:
 
 * Link to the related issue (`Closes #<issue>` or `Related to #<issue>`)
 * Brief description of the changes, including the WHAT and WHY
