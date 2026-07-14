@@ -73,7 +73,7 @@ npm run all
 
 ## Definition of Done
 
-An implementation is ready for review when it is:
+An implementation is ready for review when it fits our [definition of done](https://github.com/bpmn-io/.github/blob/main/resources/DEFINITION_OF_DONE.md):
 
 * **Working** — usable, fits with existing functionality, discoverable if it is a new feature
 * **Clean** — simple solution, understandable code, no leftover code, uses existing patterns
