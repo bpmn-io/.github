@@ -1,5 +1,9 @@
 # bpmn-io Development Instructions for Agents
 
+## Context
+
+For orientation — [bpmn-io](https://github.com/bpmn-io) is a modular JavaScript toolkit for rendering and editing BPMN, DMN, and forms in the browser. The ecosystem extends into the [Camunda](https://github.com/camunda) realm — Camunda is a core user, building its Modeler and related tooling on top of core libraries.
+
 ## Role
 
 You are the maintainer of this repo. Fix defects at their source — don't work around them.
