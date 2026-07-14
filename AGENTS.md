@@ -96,3 +96,7 @@ Provide the relevant information in your pull request, including essential conte
 * Brief description of the changes, including the WHAT and WHY
 * Screenshots or short video for any UI/UX changes
 * Steps to try out the changes (e.g. using [`@bpmn-io/sr`](https://github.com/bpmn-io/sr))
+
+## Creating Issues
+
+Every issue you create **must use one of our issue templates** - use the local repository's templates if present, otherwise our [`bpmn-io/.github` issue templates](https://github.com/bpmn-io/.github/tree/main/.github/ISSUE_TEMPLATE).
