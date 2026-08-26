@@ -11,7 +11,7 @@ changes.
 Ensure you provide everything we need to review your contribution:
 
 <!--
-Do not alter this checklist beyond checking items - provide context above
+Do not alter this checklist beyond checking items; provide context above.
 -->
 
 * [ ] Contribution __meets our [definition of done](https://github.com/bpmn-io/.github/blob/main/resources/DEFINITION_OF_DONE.md)__
