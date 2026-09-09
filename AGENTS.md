@@ -47,9 +47,8 @@ npm run all
 ## Documentation
 
 * Functions have JSDoc documentation, especially public API
-* Documentation of API does not focus on the HOW, but the what, the purpose of the function
+* Documentation of API does not focus on the HOW, but the what, the purpose of the function — and it does not explain what is obvious from source code
 * Key parts of more complex algorithms are documented using local, inline comments
-* DO NOT be overly verbose - what is obvious from source code does not have to be explained
 
 ## Testing
 
