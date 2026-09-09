@@ -95,3 +95,7 @@ Create pull requests via the `bpmn-io-create-pr` skill — it is the single auth
 ## Creating Issues
 
 Create issues via the `bpmn-io-create-issue` skill — it is the single authority for the procedure (template discovery, contents, labels). **If the skill is not available in your environment, tell the user before proceeding** — do not improvise issue creation without it.
+
+## Housekeeping
+
+Run housekeeping via the `bpmn-io-housekeeping` skill. **If the skill is not available in your environment, tell the user before proceeding.**
