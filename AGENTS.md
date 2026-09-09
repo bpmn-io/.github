@@ -96,4 +96,4 @@ Create pull requests via the `bpmn-io-create-pr` skill — it is the single auth
 
 ## Creating Issues
 
-Every issue you create **must use one of our issue templates** - use the local repository's templates if present, otherwise our [`bpmn-io/.github` issue templates](https://github.com/bpmn-io/.github/tree/main/.github/ISSUE_TEMPLATE).
+Create issues via the `bpmn-io-create-issue` skill — it is the single authority for the procedure (template discovery, contents, labels). **If the skill is not available in your environment, tell the user before proceeding** — do not improvise issue creation without it.
