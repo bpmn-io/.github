@@ -84,7 +84,7 @@ An implementation is ready for review when it fits our [definition of done](http
 * Contribution is semantically structured in relevant commits
   * No work in progress - squash things together for a clean and understandable history
 * Clearly separate feature / fix and additional refactorings
-* Exactly one commit should close the linked issue with `Closes #<issue>`
+* Exactly one commit references the linked issue in its body — `Closes #<issue>` when merging truly resolves it, `Related to #<issue>` for upstream work that reaches the reporter's repo only via release + downstream integration
 * Breaking changes must be indicated in the commit message
 * Push to a feature branch on GitHub
 
