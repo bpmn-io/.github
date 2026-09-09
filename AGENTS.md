@@ -92,14 +92,7 @@ An implementation is ready for review when it fits our [definition of done](http
 
 ## Creating Pull Requests
 
-Every PR **must use our pull request template** - use the local repository's template if present, otherwise our [`bpmn-io/.github` pull request template](https://github.com/bpmn-io/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
-
-Provide the relevant information in your pull request, including essential context for reviewers:
-
-* Link to the related issue (`Closes #<issue>` or `Related to #<issue>`)
-* Brief description of the changes, including the WHAT and WHY
-* Screenshots or short video for any UI/UX changes
-* Steps to try out the changes (e.g. using [`@bpmn-io/sr`](https://github.com/bpmn-io/sr))
+Create pull requests via the `bpmn-io-create-pr` skill — it is the single authority for the procedure (history, self-review, mandatory template, body contents). **If the skill is not available in your environment, tell the user before proceeding** — do not improvise PR creation without it.
 
 ## Creating Issues
 
