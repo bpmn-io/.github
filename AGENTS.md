@@ -40,7 +40,6 @@ npm run all
 
 ## Code Style
 
-* Spaces instead of tabs; single-quotes
 * Lint rules are enforced via [`eslint-plugin-bpmn-io`](https://github.com/bpmn-io/eslint-plugin-bpmn-io)
 * Verify locally with `npm run lint`
 * If in doubt, follow local code style
