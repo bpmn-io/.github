@@ -1,0 +1,3 @@
+# issue and pull request templates are consumed as raw text and must stay byte-exact
+.github/ISSUE_TEMPLATE/
+.github/PULL_REQUEST_TEMPLATE.md
