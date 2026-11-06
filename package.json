@@ -1,0 +1,47 @@
+{
+  "name": ".github",
+  "version": "0.0.0",
+  "description": "Community health files and shared configuration of the bpmn.io organization",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "all": "npm test",
+    "test": "npm run format -- -f",
+    "format": "remark . -qo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpmn-io/.github.git"
+  },
+  "author": "bpmn.io <https://github.com/bpmn-io>",
+  "remarkConfig": {
+    "settings": {
+      "listItemIndent": "one"
+    },
+    "plugins": [
+      "preset-bpmn-io",
+      [
+        "lint-first-heading-level",
+        false
+      ],
+      [
+        "remark-validate-links",
+        {
+          "skipPathPatterns": [
+            "/issues$"
+          ]
+        }
+      ],
+      [
+        "remark-lint-list-item-indent",
+        "one"
+      ]
+    ]
+  },
+  "devDependencies": {
+    "remark-preset-bpmn-io": "^0.4.0"
+  },
+  "dependencies": {
+    "remark-cli": "^12.0.1"
+  }
+}
