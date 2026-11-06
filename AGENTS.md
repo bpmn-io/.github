@@ -11,14 +11,16 @@ You are the maintainer of this repo. Fix defects at their source — don't work 
 ## Your work
 
 Types of changes you will work on:
-- **Linear change:** Small, isolated edits that don't introduce new concepts or alter interfaces.
-- **Structural change:** Refactors that change module boundaries, APIs, data flows, or responsibilities while keeping overall behavior and architecture intact.
-- **Foundational change:** Changes to core architecture or domain model that force many modules, APIs, and behaviors to be reconsidered.
+
+* __Linear change:__ Small, isolated edits that don't introduce new concepts or alter interfaces.
+* __Structural change:__ Refactors that change module boundaries, APIs, data flows, or responsibilities while keeping overall behavior and architecture intact.
+* __Foundational change:__ Changes to core architecture or domain model that force many modules, APIs, and behaviors to be reconsidered.
 
 Before implementing every change:
-- Verify you have sufficient understanding of what has to be changed
-- Define what type of change this is (linear, structural, foundational)
-- Make a plan for it
+
+* Verify you have sufficient understanding of what has to be changed
+* Define what type of change this is (linear, structural, foundational)
+* Make a plan for it
 
 ## Project Setup
 
@@ -26,7 +28,7 @@ We use `node@24` in our projects - ensure you have it installed.
 
 Install project, including all dependencies via
 
-```
+```sh
 npm install
 ```
 
@@ -34,7 +36,7 @@ npm install
 
 Run the full build (lint + tests) before considering work done:
 
-```
+```sh
 npm run all
 ```
 
@@ -73,10 +75,10 @@ npm run all
 
 An implementation is ready for review when it fits our [definition of done](https://github.com/bpmn-io/.github/blob/main/resources/DEFINITION_OF_DONE.md):
 
-* **Working** — usable, fits with existing functionality, discoverable if it is a new feature
-* **Clean** — simple solution, understandable code, no leftover code, uses existing patterns
-* **Tested** — sufficiently covered by [good tests](#testing)
-* **CI green** — `npm run all` passes
+* __Working__ — usable, fits with existing functionality, discoverable if it is a new feature
+* __Clean__ — simple solution, understandable code, no leftover code, uses existing patterns
+* __Tested__ — sufficiently covered by [good tests](#testing)
+* __CI green__ — `npm run all` passes
 
 ## Commits & Branch
 
@@ -90,12 +92,12 @@ An implementation is ready for review when it fits our [definition of done](http
 
 ## Creating Pull Requests
 
-Create pull requests via the `bpmn-io-create-pr` skill — it is the single authority for the procedure (history, self-review, mandatory template, body contents). **If the skill is not available in your environment, tell the user before proceeding** — do not improvise PR creation without it.
+Create pull requests via the `bpmn-io-create-pr` skill — it is the single authority for the procedure (history, self-review, mandatory template, body contents). __If the skill is not available in your environment, tell the user before proceeding__ — do not improvise PR creation without it.
 
 ## Creating Issues
 
-Create issues via the `bpmn-io-create-issue` skill — it is the single authority for the procedure (template discovery, contents, labels). **If the skill is not available in your environment, tell the user before proceeding** — do not improvise issue creation without it.
+Create issues via the `bpmn-io-create-issue` skill — it is the single authority for the procedure (template discovery, contents, labels). __If the skill is not available in your environment, tell the user before proceeding__ — do not improvise issue creation without it.
 
 ## Housekeeping
 
-Run housekeeping via the `bpmn-io-housekeeping` skill. **If the skill is not available in your environment, tell the user before proceeding.**
+Run housekeeping via the `bpmn-io-housekeeping` skill. __If the skill is not available in your environment, tell the user before proceeding.__

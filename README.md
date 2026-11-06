@@ -2,7 +2,6 @@
 
 This repository contains the default organizational resources for the [bpmn-io GitHub organization](https://github.com/bpmn-io).
 
-
 ### Help Resources
 
 * [GitHub: Creating default community health file for your organization](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file-for-your-organization)
