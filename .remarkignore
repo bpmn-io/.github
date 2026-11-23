@@ -1,3 +1,6 @@
 # issue and pull request templates are consumed as raw text and must stay byte-exact
 .github/ISSUE_TEMPLATE/
 .github/PULL_REQUEST_TEMPLATE.md
+
+# agent instructions carry frontmatter that remark would rewrite
+.github/instructions/
